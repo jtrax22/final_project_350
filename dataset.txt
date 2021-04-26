@@ -1,0 +1,21 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Mar  2 18:59:29 2021
+
+@author: jamestraxler
+"""
+My first data set i will be looking into is on cause of mortality among
+college students. The data set has different ethnicities, gender, and age. 
+What made me interested in this topic is the recent death of a 
+college student on U of A campus. I wanted to explore the data and see if 
+I could correlate anything in order to gain knowledge on the topic. Here is
+link. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4535338/.
+
+I have been seeing a lot of skeptic on climate change on social media
+and talking to a different range of people. I believe in climate change 
+but wanted to actually look at data myself. I wanted to look at CO2 levels 
+specifically. This data set explores data going back to the 1700s which I
+liked. It has different levels of Gas, Liquid, Solid fuel. It also includes
+cement and gas flaring per capita. I would be excited to find out some things
+about CO2 levels on my own with this data. https://datahub.io/core/co2-fossil-global
